@@ -1,4 +1,4 @@
-# 7 Homework
+# 1 Homework
 
 Simple calculator in JAVA.
 
